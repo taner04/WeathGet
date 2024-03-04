@@ -22,10 +22,11 @@ With this application, users can stay informed about the current weather conditi
 For the portable version download the WeathGet-Portable.zip file from the [Releases](https://github.com/your-username/Weather-Console-Application/releases).
 If you installed it unzip it and run the 'WeathGet.exe'.
 
-## Used Dependencies
+## Dependencies
 
 - Newtonsoft.Json, for JSON parsing (https://www.newtonsoft.com/json)
 - HttpClient, for making HTTP requests
+- Openweather API, for getting the weather data (openweathermap.org/)
 
 ## Usage
 
