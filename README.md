@@ -26,7 +26,7 @@ If you installed it unzip it and run the 'WeathGet.exe'.
 
 - Newtonsoft.Json, for JSON parsing (https://www.newtonsoft.com/json)
 - HttpClient, for making HTTP requests
-- Openweather API, for getting the weather data (openweathermap.org/)
+- Openweather API, for getting the weather data (https://openweathermap.org)
 
 ## Usage
 
