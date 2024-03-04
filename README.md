@@ -19,8 +19,8 @@ With this application, users can stay informed about the current weather conditi
 
 ## Installation
 
-For the portable version download the WeathGet-Portable.zip file from the [Releases](https://github.com/your-username/Weather-Console-Application/releases)
-and follow the steps.
+For the portable version download the WeathGet-Portable.zip file from the [Releases](https://github.com/your-username/Weather-Console-Application/releases).
+If you installed it unzip it and run the 'WeathGet.exe'.
 
 ## Used Dependencies
 
