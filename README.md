@@ -19,7 +19,7 @@ With this application, users can stay informed about the current weather conditi
 
 ## Installation
 
-For the installation download the Weather_App.zip file from the [Releases](https://github.com/your-username/Weather-Console-Application/releases)
+For the portable version download the WeathGet-Portable.zip file from the [Releases](https://github.com/your-username/Weather-Console-Application/releases)
 and follow the steps.
 
 ## Used Dependencies
