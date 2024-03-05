@@ -1,0 +1,6 @@
+F:\Pers_Projekte\WeathGet\WeathGet\bin\Release\net8.0\publish\win-x64\WeathGet.exe
+F:\Pers_Projekte\WeathGet\WeathGet\bin\Release\net8.0\publish\win-x64\WeathGet.dll
+F:\Pers_Projekte\WeathGet\WeathGet\bin\Release\net8.0\publish\win-x64\WeathGet.deps.json
+F:\Pers_Projekte\WeathGet\WeathGet\bin\Release\net8.0\publish\win-x64\WeathGet.runtimeconfig.json
+F:\Pers_Projekte\WeathGet\WeathGet\bin\Release\net8.0\publish\win-x64\WeathGet.pdb
+F:\Pers_Projekte\WeathGet\WeathGet\bin\Release\net8.0\publish\win-x64\Newtonsoft.Json.dll

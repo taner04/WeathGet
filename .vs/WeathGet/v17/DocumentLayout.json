@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Pers_Projekte\\WeathGet\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD281-A3D8-47E2-8A07-B3782BEFC584}|WeathGet\\WeathGet.csproj|f:\\pers_projekte\\weathget\\weathget\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBBD281-A3D8-47E2-8A07-B3782BEFC584}|WeathGet\\WeathGet.csproj|solutionrelative:weathget\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 851,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "F:\\Pers_Projekte\\WeathGet\\WeathGet\\Main.cs",
+              "RelativeDocumentMoniker": "WeathGet\\Main.cs",
+              "ToolTip": "F:\\Pers_Projekte\\WeathGet\\WeathGet\\Main.cs*",
+              "RelativeToolTip": "WeathGet\\Main.cs*",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:59:23.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

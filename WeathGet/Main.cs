@@ -3,7 +3,7 @@ using Weather_Console_Application.Class_Weather;
 using Weather_Console_Application.Class_Weather.Main;
 
 string newRun;
-string selector = "\u001b[32m[*] \u001b[0m";
+string selector = "[\u001b[32m*\u001b[0m] ";
 
 Console.Clear();
 RenderIntroBox();

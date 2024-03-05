@@ -3,18 +3,34 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34607.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeathGet", "WeathGet\WeathGet.csproj", "{FBBBD281-A3D8-47E2-8A07-B3782BEFC584}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeathGet", "WeathGet\WeathGet.csproj", "{FBBBD281-A3D8-47E2-8A07-B3782BEFC584}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "SetupProj", "SetupProj\SetupProj.aiproj", "{D5976CCB-6677-432F-B97B-73646BD39337}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
 		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBBD281-A3D8-47E2-8A07-B3782BEFC584}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBBD281-A3D8-47E2-8A07-B3782BEFC584}.All|Any CPU.Build.0 = Release|Any CPU
 		{FBBBD281-A3D8-47E2-8A07-B3782BEFC584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FBBBD281-A3D8-47E2-8A07-B3782BEFC584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBBD281-A3D8-47E2-8A07-B3782BEFC584}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBBD281-A3D8-47E2-8A07-B3782BEFC584}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
 		{FBBBD281-A3D8-47E2-8A07-B3782BEFC584}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBBBD281-A3D8-47E2-8A07-B3782BEFC584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5976CCB-6677-432F-B97B-73646BD39337}.All|Any CPU.ActiveCfg = DefaultBuild
+		{D5976CCB-6677-432F-B97B-73646BD39337}.All|Any CPU.Build.0 = DefaultBuild
+		{D5976CCB-6677-432F-B97B-73646BD39337}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{D5976CCB-6677-432F-B97B-73646BD39337}.Debug|Any CPU.Build.0 = DefaultBuild
+		{D5976CCB-6677-432F-B97B-73646BD39337}.DefaultBuild|Any CPU.ActiveCfg = DefaultBuild
+		{D5976CCB-6677-432F-B97B-73646BD39337}.DefaultBuild|Any CPU.Build.0 = DefaultBuild
+		{D5976CCB-6677-432F-B97B-73646BD39337}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{D5976CCB-6677-432F-B97B-73646BD39337}.Release|Any CPU.Build.0 = DefaultBuild
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
