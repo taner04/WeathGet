@@ -23,12 +23,6 @@ With this application, users can stay informed about the current weather conditi
 - HttpClient, for making HTTP requests
 - Openweather API, for getting the weather data (https://openweathermap.org)
 
-## Usage
-
-1. Run the .exe from the application folder.
-2. Enter the name of the city for which you want to fetch weather data.
-3. Press Enter to retrieve weather information.
-
 ## Feedback
 
 If you have any suggestions, bug reports, or feature requests, please let me know.
