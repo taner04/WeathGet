@@ -17,11 +17,6 @@ With this application, users can stay informed about the current weather conditi
 - [Usage](#usage)
 - [Feedback](#feedback)
 
-## Installation
-
-For the portable version download the WeathGet-Portable.zip file from the [Releases](https://github.com/taner04/WeathGet/releases).
-If you installed it unzip it and run the 'WeathGet.exe'.
-
 ## Dependencies
 
 - Newtonsoft.Json, for JSON parsing (https://www.newtonsoft.com/json)
