@@ -12,9 +12,7 @@ With this application, users can stay informed about the current weather conditi
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
 - [Feedback](#feedback)
 
 ## Dependencies
